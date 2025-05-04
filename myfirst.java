@@ -1,0 +1,3 @@
+class myfirst{
+    int add()
+}
